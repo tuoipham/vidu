@@ -1,0 +1,109 @@
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+    box-sizing: border-box;
+}
+
+header, footer {
+    padding: 1em;
+    color: #fff;
+    background-color:#908888;
+    clear: left;
+    text-align: center;
+}
+
+aside {
+    width: 15%;
+    float: left; 
+     margin: 0px; 
+    padding: 1em;
+    background: #27352e;
+    border-radius: 10%;
+    display: block;
+    position: sticky;
+    top: 0;
+}
+}
+.box {
+    padding: 0;
+    margin-right: 820px;
+    border-radius: 5px;
+}
+.title{
+
+    color: #04588D;
+    background: #fff;
+    border-radius: 10px;
+    padding: 0px 118px;
+    padding: 0px 75px;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+}
+ul {
+    padding: 10px 0;
+    margin: 0;
+    list-style: none;
+}
+.li-right{
+
+     padding: 10px 5px 25px;
+    border-bottom: 3px solid #d01212;
+}
+    
+.a-right{
+    color: #fff;
+    font-style: 13px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+a:hover {
+    color: red;
+}
+
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+    padding-bottom: 80px;
+}
+   
+article {
+    margin-left: 170px;
+    
+    padding: 1em;
+    overflow: hidden;
+}
+img {
+    width: 940px;
+    height: 345px;
+    top:0;
+    left:0;
+
+}
+.cbv{
+    width: 28%;
+    height: 405px;
+    float: left;
+    margin: 17px;
+}
+.time{
+    color: #888;
+}
+.money{
+
+    color: red;
+}
+.cbv img {
+    width: 300px;
+    height: 270px;
+    margin: -10px 5px;
+    box-shadow: 17px -8px 9px 3px #886d6d;
+}
+.tieude {
+    margin: 4px 6px 4px 3px;
+}
+
+
